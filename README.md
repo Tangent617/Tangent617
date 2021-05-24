@@ -1,13 +1,8 @@
-# Tangent617
+## About Me
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tangent617&layout=compact" >
-  </a>
-</div>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Tangent617&show_icons=true"> 
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Tangent617&show_icons=true" >
-  </a>
-</div>  
+* 👩‍🎓 a collage student majored in computer science
+* 🖥️ interested in big data
+* 📖 sometimes write a [blog](https://tangent617.github.io/)
+* ✍🏻️ working on a compiler now
